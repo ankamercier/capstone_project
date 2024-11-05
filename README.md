@@ -77,7 +77,10 @@ Core submitted files include:
 
     :pushpin: **JUMP TO:** [EDA](https://github.com/ankamercier/capstone_project/tree/main/src/model_building)
 
--**Modifying data for Tableau**
+- **Modifying data for Tableau**
+    - final changes
+
+    :pushpin: **JUMP TO:** [EDA](https://github.com/ankamercier/capstone_project/tree/main/src/modifying_data_for_tableau)
 
 - **Dashboard creation** (skills used: Tableau):
     - using Tableau to create an interactive dashboard
